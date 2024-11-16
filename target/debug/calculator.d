@@ -1,0 +1,1 @@
+C:\Users\Dana\rust-learning-path\calculator\target\debug\calculator.exe: C:\Users\Dana\rust-learning-path\calculator\src\ast.rs C:\Users\Dana\rust-learning-path\calculator\src\grammar.pest C:\Users\Dana\rust-learning-path\calculator\src\lib.rs C:\Users\Dana\rust-learning-path\calculator\src\main.rs
